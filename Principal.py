@@ -1,2 +1,2 @@
 # Archivo principal
-print ("La programacion se aprende practicando")
+print ("La ingenieria de software, es mas que escribir codigos")
