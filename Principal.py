@@ -1,2 +1,2 @@
 # Archivo principal
-print ("La programacion se aprende practicando")
+print ("La programacion en genial")
